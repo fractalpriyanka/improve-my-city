@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏙️ Improve My City
 
 Flask + Data Science project to report and analyze civic issues like potholes, garbage, and streetlight failures.
@@ -18,3 +19,7 @@ Flask + Data Science project to report and analyze civic issues like potholes, g
 - Phase 3: Data Science Integration
 - Phase 4: Dashboard & Analytics
 - Phase 5: Deployment
+=======
+# improve-my-city
+classify and visualize civic complaints
+>>>>>>> 8db83caeca1a60ba1789d3c7e08b8cd9cbd93ce5
