@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environments
+venv/
+env/
+.env
+
+# OS / IDE files
+.DS_Store
+.vscode/
+*.log
+
+# Model & data files
+*.h5
+*.pkl
+*.csv
+
+# Cache
+instance/
+__cache__/
